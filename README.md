@@ -1,12 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Daniel Massuanganhe</h1>
-<h3 align="center">Adaptável, confiante e consciente.
-Adepto do desenvolvimento básico e
-avançado de sistemas web.
-Instalação e manutenção de sistemas
-web. Equipado com um conjunto de
-habilidades diversificado e promissor.
-Proficiente em uma variedade de
-tecnologias!</h3>
+<h3 align="center">Adaptable, confident and aware. Adept at basic and advanced development of web systems. Installation and maintenance of web systems. Equipped with a diverse and promising skill set. Proficient in a variety of technologies!</h3>
 
 <p align="center"> <a href="https://github.com/ryo- ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielmaela04" alt="danielmaela04" /></a> 
 
